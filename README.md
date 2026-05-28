@@ -55,5 +55,22 @@ Each file contains:
 - Performance tuning basics
 
 ---
+## 🗓️ Day 1 – SQL Basics (Completed)
+
+### 📌 What I learned today:
+- Introduction to SQL
+- Basic SELECT queries
+- Database understanding
+- Simple data retrieval
+
+### 💻 Practice Done:
+- Wrote basic SELECT statements
+- Practiced simple table queries
+
+### 📁 File Added:
+- Day1.sql
+
+### 📊 Status:
+✔ Completed Day 1 successfully
 
 ## 📁 Project Structure
